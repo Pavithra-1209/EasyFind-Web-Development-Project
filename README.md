@@ -19,6 +19,13 @@ EasyFind is a web application that helps users post lost or found items, claim t
 **Backend:** PHP 
 **Database:** MySQL  
 
+- PHP (Full stack – handles routing, server logic, and page rendering)
+- HTML, CSS, JavaScript (Embedded within PHP templates)
+- MySQL (Database for storing users, items, and feedback)
+
+> Note: GitHub may show only PHP since all frontend code is embedded in `.php` files.
+
+
 ## How to Run
 
 1. Clone or download the project  
@@ -34,8 +41,3 @@ EasyFind is a web application that helps users post lost or found items, claim t
 
 **Pavithra Pamula**  
 B.Tech Engineering Student | Full Stack Developer  
-
-## Feedback
-
-Have suggestions? Use the built-in feedback form or contact me directly.
-
